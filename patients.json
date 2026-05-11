@@ -1,0 +1,56 @@
+{
+  "p001": {
+    "name": "Rahul Sharma",
+    "city": "Kolkata",
+    "age": 28,
+    "gender": "Male",
+    "height": 175,
+    "weight": 72,
+    "bmi": 23.5,
+    "verdict": "Healthy"
+  },
+
+  "p002": {
+    "name": "Ananya Das",
+    "city": "Delhi",
+    "age": 34,
+    "gender": "Female",
+    "height": 162,
+    "weight": 81,
+    "bmi": 30.9,
+    "verdict": "Obese"
+  },
+
+  "p003": {
+    "name": "Rohit Verma",
+    "city": "Mumbai",
+    "age": 41,
+    "gender": "Male",
+    "height": 168,
+    "weight": 64,
+    "bmi": 22.7,
+    "verdict": "Healthy"
+  },
+
+  "p004": {
+    "name": "Sneha Roy",
+    "city": "Bengaluru",
+    "age": 22,
+    "gender": "Female",
+    "height": 158,
+    "weight": 45,
+    "bmi": 18.0,
+    "verdict": "Underweight"
+  },
+
+  "p005": {
+    "name": "Amit Singh",
+    "city": "Chennai",
+    "age": 50,
+    "gender": "Male",
+    "height": 170,
+    "weight": 92,
+    "bmi": 31.8,
+    "verdict": "Obese"
+  }
+}
